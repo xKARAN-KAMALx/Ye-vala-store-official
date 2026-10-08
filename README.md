@@ -1,2 +1,10 @@
-# Ye-vala-store-official
-2nd repository for ye vala store website making 
+# YE-VALA STORE
+
+Files:
+- index.html
+- style.css
+- script.js
+- logo.png
+- assets/ (one product image per app)
+
+Upload the whole folder contents to the GitHub repository while keeping the `assets` folder.
